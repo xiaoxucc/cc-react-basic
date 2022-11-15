@@ -1,5 +1,5 @@
 import React from "react";
-const name = 'CCName'
+const name = 'CC'
 // React
 
 // 类组件
